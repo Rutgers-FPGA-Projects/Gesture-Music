@@ -1,0 +1,41 @@
+Warning (10268): Verilog HDL information at AUDIO_IF.v(166): always construct contains both blocking and non-blocking assignments
+Warning (10268): Verilog HDL information at AUDIO_IF.v(182): always construct contains both blocking and non-blocking assignments
+Warning (10273): Verilog HDL warning at de2_115_sd_card_audio_player.v(563): extended using "x" or "z"
+Warning (10273): Verilog HDL warning at de2_115_sd_card_audio_player.v(564): extended using "x" or "z"
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(95): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(104): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(113): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(239): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(248): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(257): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(266): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_0.v(275): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(95): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(104): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(113): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(239): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(248): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(257): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(266): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_1.v(275): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(95): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(104): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(113): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(239): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(248): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(257): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(266): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_2.v(275): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(95): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(104): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(113): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(239): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(248): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(257): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(266): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at de2_115_sopc_clock_3.v(275): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at cpu.v(1963): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at cpu.v(1965): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at cpu.v(2115): conditional expression evaluates to a constant
+Warning (10037): Verilog HDL or VHDL warning at cpu.v(3013): conditional expression evaluates to a constant
+Warning (10273): Verilog HDL warning at lcd.v(57): extended using "x" or "z"

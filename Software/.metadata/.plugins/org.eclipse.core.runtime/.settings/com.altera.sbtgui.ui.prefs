@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage.defaultLocation=E\:\\FPGA\\FinalProject\\software\\finalproject
+newSoftwareExampleWizardPage.sopcinfoFile=E\:\\FPGA\\FinalProject\\DE2_115_SOPC.sopcinfo
+newSoftwareExampleWizardPage2.newBspLocation=E\:\\FPGA\\FinalProject\\software\\finalproject_bsp
